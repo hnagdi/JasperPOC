@@ -1,0 +1,14 @@
+*/target/
+*/.project
+*/.classpath
+*/.settings/
+target/
+.project
+.classpath
+.settings/
+atlassian-bamboo.log
+build-number.txt
+release.properties
+*.iml
+*.log
+.idea
